@@ -1,4 +1,4 @@
-# WanderNest ✈️
+# Travel App UI in Flutter
 
 A professional multi-screen Flutter Travel App UI with complex layouts, widget composition, and smooth navigation.
 
@@ -14,8 +14,8 @@ https://github.com/user/travel_app/assets/demo/demo.mp4
 
 ## Screenshots
 
-| Home | Detail | Booking |
-|------|--------|---------|
+| Home                   | Detail                     | Booking                      |
+| ---------------------- | -------------------------- | ---------------------------- |
 | ![Home](demo/home.png) | ![Detail](demo/detail.png) | ![Booking](demo/booking.png) |
 
 ---
