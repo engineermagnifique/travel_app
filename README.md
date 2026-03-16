@@ -2,20 +2,38 @@
 
 A professional multi-screen Flutter Travel App UI with complex layouts, widget composition, and smooth navigation.
 
+---
+
 ## Demo
 
-https://github.com/engineermagnifique/travel_app/blob/main/demo/demo.mp4
+<!-- ─────────────────────────────────────────────────────────────
+  HOW TO MAKE THE VIDEO PLAY INLINE:
+  1. Go to https://github.com/engineermagnifique/travel_app/issues/new
+  2. Drag and drop demo/demo.mp4 into the comment box
+  3. Wait for it to upload — GitHub gives you a URL like:
+     https://github.com/user-attachments/assets/xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx
+  4. Replace the src below with that URL and delete this comment
+───────────────────────────────────────────────────────────────── -->
+
+https://github.com/engineermagnifique/travel_app/blob/main/demo/demo.mp4git add
+
+> **Can't see the video?** [Click here to watch](https://github.com/engineermagnifique/travel_app/blob/main/demo/demo.mp4)
 
 ---
 
 ## Screenshots
 
-| Home                                                                                         | Detail                                                                                         | Booking                                                                                         |
-| -------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------- |
-| ![Home](https://raw.githubusercontent.com/engineermagnifique/travel_app/main/demo/Home.png)  | ![Detail](https://raw.githubusercontent.com/engineermagnifique/travel_app/main/demo/view.png)  | ![Booking](https://raw.githubusercontent.com/engineermagnifique/travel_app/main/demo/book.png)  |
-| Home                                                                                         | Detail                                                                                         | Booking                                                                                         |
-| -------------------------------------------------------------------------------------------  | ---------------------------------------------------------------------------------------------  | ----------------------------------------------------------------------------------------------  |
-| ![Home](https://raw.githubusercontent.com/engineermagnifique/travel_app/main/demo/Home2.png) | ![Detail](https://raw.githubusercontent.com/engineermagnifique/travel_app/main/demo/view1.png) | ![Booking](https://raw.githubusercontent.com/engineermagnifique/travel_app/main/demo/book1.png) |
+| Home                                                                                        | Home 2                                                                                        |
+| ------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------- |
+| ![Home](https://raw.githubusercontent.com/engineermagnifique/travel_app/main/demo/Home.png) | ![Home2](https://raw.githubusercontent.com/engineermagnifique/travel_app/main/demo/Home2.png) |
+
+| Detail                                                                                        | Detail 2                                                                                        |
+| --------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------- |
+| ![Detail](https://raw.githubusercontent.com/engineermagnifique/travel_app/main/demo/view.png) | ![Detail2](https://raw.githubusercontent.com/engineermagnifique/travel_app/main/demo/view1.png) |
+
+| Booking                                                                                        | Booking 2                                                                                        |
+| ---------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------ |
+| ![Booking](https://raw.githubusercontent.com/engineermagnifique/travel_app/main/demo/book.png) | ![Booking2](https://raw.githubusercontent.com/engineermagnifique/travel_app/main/demo/book1.png) |
 
 ---
 
@@ -25,9 +43,12 @@ https://github.com/engineermagnifique/travel_app/blob/main/demo/demo.mp4
 travel_app/
 ├── demo/                          ← Demo video & screenshots
 │   ├── demo.mp4
-│   ├── home.png
-│   ├── detail.png
-│   └── booking.png
+│   ├── Home.png
+│   ├── Home2.png
+│   ├── view.png
+│   ├── view1.png
+│   ├── book.png
+│   └── book1.png
 ├── assets/
 │   ├── fonts/                     ← Poppins (400–800)
 │   └── images/
