@@ -15,7 +15,7 @@ A professional multi-screen Flutter Travel App UI with complex layouts, widget c
   4. Replace the src below with that URL and delete this comment
 ───────────────────────────────────────────────────────────────── -->
 
-https://github.com/engineermagnifique/travel_app/blob/main/demo/demo.mp4git add
+https://github.com/engineermagnifique/travel_app/blob/main/demo/demo.mp4
 
 > **Can't see the video?** [Click here to watch](https://github.com/engineermagnifique/travel_app/blob/main/demo/demo.mp4)
 
