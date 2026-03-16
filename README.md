@@ -10,9 +10,12 @@ https://github.com/engineermagnifique/travel_app/blob/main/demo/demo.mp4
 
 ## Screenshots
 
-| Home                                                                                        | Detail                                                                                        | Booking                                                                                        |
-| ------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------- |
-| ![Home](https://raw.githubusercontent.com/engineermagnifique/travel_app/main/demo/Home.png) | ![Detail](https://raw.githubusercontent.com/engineermagnifique/travel_app/main/demo/view.png) | ![Booking](https://raw.githubusercontent.com/engineermagnifique/travel_app/main/demo/book.png) |
+| Home                                                                                         | Detail                                                                                         | Booking                                                                                         |
+| -------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------- |
+| ![Home](https://raw.githubusercontent.com/engineermagnifique/travel_app/main/demo/Home.png)  | ![Detail](https://raw.githubusercontent.com/engineermagnifique/travel_app/main/demo/view.png)  | ![Booking](https://raw.githubusercontent.com/engineermagnifique/travel_app/main/demo/book.png)  |
+| Home                                                                                         | Detail                                                                                         | Booking                                                                                         |
+| -------------------------------------------------------------------------------------------  | ---------------------------------------------------------------------------------------------  | ----------------------------------------------------------------------------------------------  |
+| ![Home](https://raw.githubusercontent.com/engineermagnifique/travel_app/main/demo/Home2.png) | ![Detail](https://raw.githubusercontent.com/engineermagnifique/travel_app/main/demo/view1.png) | ![Booking](https://raw.githubusercontent.com/engineermagnifique/travel_app/main/demo/book1.png) |
 
 ---
 
