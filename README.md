@@ -1,4 +1,4 @@
-# Travel App UI in Flutter ✈️
+# Travel App UI in Flutter
 
 A professional multi-screen Flutter Travel App UI with complex layouts, widget composition, and smooth navigation.
 
@@ -71,85 +71,6 @@ travel_app/
 │       └── amenity_badge.dart     ← Icon + label badge
 └── pubspec.yaml
 ```
-
----
-
-## Getting Started
-
-### Prerequisites
-
-- Flutter SDK `^3.10.8`
-- Android Studio / VS Code
-- Android emulator or physical device
-
-### Setup
-
-**1. Clone the repo**
-
-```bash
-git clone https://github.com/engineermagnifique/travel_app.git
-cd travel_app
-```
-
-**2. Add Poppins fonts**
-
-Download from [fonts.google.com/specimen/Poppins](https://fonts.google.com/specimen/Poppins) and place in `assets/fonts/`:
-
-```
-assets/fonts/
-├── Poppins-Regular.ttf
-├── Poppins-Medium.ttf
-├── Poppins-SemiBold.ttf
-├── Poppins-Bold.ttf
-└── Poppins-ExtraBold.ttf
-```
-
-**3. Install dependencies**
-
-```bash
-flutter pub get
-```
-
-**4. Run the app**
-
-```bash
-flutter run
-```
-
----
-
-## Features
-
-| Feature          | Details                                                  |
-| ---------------- | -------------------------------------------------------- |
-| **Screens**      | Home, Detail, Booking                                    |
-| **Navigation**   | `Navigator.push` / `Navigator.pop` with data passing     |
-| **Data**         | 12 hard-coded destinations across 6 categories           |
-| **Image Slider** | Prev/Next arrows, dot indicators, photo counter          |
-| **Animations**   | Heart scale, slide-in, fade-in, page transitions         |
-| **Booking Flow** | Form → loading state → success dialog → back to Home     |
-| **Theme**        | Teal-mint palette, Poppins font, gradients, glow shadows |
-| **Widgets**      | 18+ Flutter widgets used                                 |
-
----
-
-## Flutter Widgets Used
-
-`CustomScrollView` · `SliverAppBar` · `FlexibleSpaceBar` · `PageView` · `ListView.builder` · `GridView.builder` · `AnimatedContainer` · `AnimatedCrossFade` · `Stack` · `Positioned` · `ClipRRect` · `GestureDetector` · `ScaleTransition` · `SlideTransition` · `FadeTransition` · `TextFormField` · `Dialog` · `CircularProgressIndicator`
-
----
-
-## Navigation Flow
-
-```
-Home Screen  ──►  Detail Screen  ──►  Booking Screen
-                                            │
-                                    Confirmation Dialog
-                                            │
-                                   ◄── Back to Home
-```
-
----
 
 ## Built With
 
