@@ -1,4 +1,4 @@
-# Travel App UI in Flutter
+# Travel App UI in Flutter LAB 3
 
 A professional multi-screen Flutter Travel App UI with complex layouts, widget composition, and smooth navigation.
 
